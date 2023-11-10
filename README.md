@@ -15,7 +15,7 @@ Venturing beyond the frontend, I embrace the challenges of Fullstack Web Develop
 Beyond the code, I have a keen eye for design aesthetics. User-centric design is not just a practice for me; it's a philosophy. I collaborate seamlessly with designers to ensure that the final product is not just functional but also a visual masterpiece.
 
 🌐 **Tech Stack:**
-- **Languages:** HTML, CSS, SAAS, JavaScript, Python , Dart
+- **Languages:** HTML, CSS, SAAS, JavaScript, Python , Dart, TypeScript
 - **Frontend:** React, Next.js,Vite.js, Flutter
 - **Backend:** Node.js, Flask, Express.js
 - **Databases:** MongoDB, SQLite,SQLAlchemy, MySQL
