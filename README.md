@@ -1,6 +1,6 @@
-🚀 **Meet [GitHubUsername] – Crafting Digital Experiences with Precision and Passion!** 🚀
+## **Meet Chimaobi – Crafting Digital Experiences with Precision and Passion!** 🚀
 
-Greetings, fellow coders and enthusiasts! I am ceasermikes002, a dynamic and versatile Frontend App Developer and Fullstack Web Developer on a relentless mission to bring visions to life through elegant and seamless digital solutions.
+Greetings, fellow coders and enthusiasts! I am Emeka-Iheonu Chimaobi, a dynamic and versatile Frontend App Developer and Fullstack Web Developer on a relentless mission to bring visions to life through elegant and seamless digital solutions.
 
 🌟 **About Me:**
 I am not just a developer; I am a creator with a relentless passion for translating ideas into interactive and visually stunning user experiences. My journey into the world of coding began with a fascination for the limitless possibilities that technology offers.
