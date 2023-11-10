@@ -15,8 +15,8 @@ Venturing beyond the frontend, I embrace the challenges of Fullstack Web Develop
 Beyond the code, I have a keen eye for design aesthetics. User-centric design is not just a practice for me; it's a philosophy. I collaborate seamlessly with designers to ensure that the final product is not just functional but also a visual masterpiece.
 
 🌐 **Tech Stack:**
-- **Languages:** HTML, CSS, JavaScript, Python
-- **Frontend:** React, Next.js,Vite.js
+- **Languages:** HTML, CSS, SAAS, JavaScript, Python , Dart
+- **Frontend:** React, Next.js,Vite.js, Flutter
 - **Backend:** Node.js, Flask, Express.js
 - **Databases:** MongoDB, SQLite,SQLAlchemy, MySQL
 - **Tools:** Git
@@ -34,7 +34,8 @@ Believing in the power of community, I actively contribute to open-source projec
 📈 **The Journey Ahead:**
 The journey of a developer is an ever-evolving adventure, and I am excited to continue pushing boundaries, creating impactful solutions, and leaving a mark on the digital landscape. Let's code the future together!
 
-📬 **Connect with Me:**
+📬 **Connect with Me:**![dot-image](https://github.com/ceasermikes002/ceasermikes002/assets/117273419/52daf575-adaa-4333-a5e3-c461e5c1adee)
+
 - GitHub: [GitHubProfile](https://github.com/ceasermikes002)
 - Twitter: [TwitterHandle](https://twitter.com/@ceaser_mikes)
 
