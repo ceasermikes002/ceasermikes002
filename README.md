@@ -34,8 +34,7 @@ Believing in the power of community, I actively contribute to open-source projec
 📈 **The Journey Ahead:**
 The journey of a developer is an ever-evolving adventure, and I am excited to continue pushing boundaries, creating impactful solutions, and leaving a mark on the digital landscape. Let's code the future together!
 
-📬 **Connect with Me:**![dot-image](https://github.com/ceasermikes002/ceasermikes002/assets/117273419/52daf575-adaa-4333-a5e3-c461e5c1adee)
-
+📬 **Connect with Me:**
 - GitHub: [GitHubProfile](https://github.com/ceasermikes002)
 - Twitter: [TwitterHandle](https://twitter.com/@ceaser_mikes)
 
