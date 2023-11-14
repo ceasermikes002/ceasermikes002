@@ -5,6 +5,8 @@ Greetings, fellow coders and enthusiasts! I am Emeka-Iheonu Chimaobi, a dynamic 
 🌟 **About Me:**
 I am not just a developer; I am a creator with a relentless passion for translating ideas into interactive and visually stunning user experiences. My journey into the world of coding began with a fascination for the limitless possibilities that technology offers.
 
+💻 Currently working on a [Google Chrome Extension].(https://github.com/ceasermikes002/google-chrome-extension)
+
 🚀 **Frontend Alchemist:**
 As a Frontend App Developer, I wield the magic of Flutter and my favourite IDE [Android Studio](https://developer.android.com/studio) to breathe life into static designs. I'm not just about pixels; I'm about creating intuitive, responsive, and pixel-perfect interfaces that captivate users from the first click.
 
