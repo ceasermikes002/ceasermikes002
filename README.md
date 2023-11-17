@@ -37,7 +37,7 @@ Believing in the power of community, I actively contribute to open-source projec
 The journey of a developer is an ever-evolving adventure, and I am excited to continue pushing boundaries, creating impactful solutions, and leaving a mark on the digital landscape. Let's code the future together!
 
 📬 **Connect with Me:**
-- GitHub: [GitHubProfile](https://github.com/ceasermikes002)
+- Portfolio: [GitHubProfile](https://ubiquitous-lolly-b9ace0.netlify.app/)
 - Twitter: [TwitterHandle](https://twitter.com/@ceaser_mikes)
 
 Let's build, innovate, and code a brighter future together! 💻✨
