@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ceasermikes002" alt="ceasermikes002" /></a> </p>
 
-- 🔭 I’m currently working on [Google Gemini Clone with Mmesonma]((https://github.com/ceasermikes002/google-chrome-extension))
+- 🔭 I’m currently working on [Google Chrome Extension](https://github.com/ceasermikes002/google-chrome-extension) with [Mmesonma](https://github.com/Mmeso1/)
 
-- 🌱 I’m currently learning **NestJs,DataScience,NuxtJs**
+- 🌱 I’m currently learning **NestJs, DataScience, NuxtJs**
 
-- 👨‍💻 All of my projects are available at [https://ubiquitous-lolly-b9ace0.netlify.app/](https://ubiquitous-lolly-b9ace0.netlify.app/)
+- 👨‍💻 My Online Portfolio [https://ubiquitous-lolly-b9ace0.netlify.app/](https://ubiquitous-lolly-b9ace0.netlify.app/)
 
-- 💬 Ask me about **NextJs,HTML,CSS,JavaScript,TypeScript,Python**
+- 💬 Ask me about **NextJs, HTML, CSS, JavaScript, TypeScript, Python**
 
 - 📫 How to reach me **michealceaser02@gmail.com**
 
