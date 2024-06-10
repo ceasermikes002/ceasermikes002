@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NestJs, DataScience, NuxtJs**
 
-- 👨‍💻 My Online Portfolio [https://ubiquitous-lolly-b9ace0.netlify.app/](https://ubiquitous-lolly-b9ace0.netlify.app/)
+- 👨‍💻 My Online Portfolio [[https://ubiquitous-lolly-b9ace0.netlify.app/](https://ubiquitous-lolly-b9ace0.netlify.app/)](https://chima-portfolio.vercel.app/)
 
 - 💬 Ask me about **NextJs, HTML, CSS, JavaScript, TypeScript, Python**
 
