@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emeka-Iheonu Chimaobi</h1>
 <h3 align="center">I am not just a developer; I am a creator with a relentless passion for translating ideas into interactive and visually stunning user experiences. My journey into the world of coding began with a fascination for the limitless possibilities that technology offers.</h3>
 
-<!-- Top Banner Video -->
-<!-- Top Banner Video -->
-<p align="center">
-  <a href="https://chima-portfolio.vercel.app/" target="_blank">
-    <img src="https://i.ibb.co/bRDQv8W/banner-thumbnail.jpg" alt="banner video" style="width: 100%;" />
-  </a>
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceasermikes002&label=Profile%20views&color=0e75b6&style=flat" alt="ceasermikes002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ceasermikes002" alt="ceasermikes002" /></a> </p>
