@@ -2,7 +2,7 @@
 <h3 align="center">I am not just a developer; I am a creator with a relentless passion for translating ideas into interactive and visually stunning user experiences. My journey into the world of coding began with a fascination for the limitless possibilities that technology offers</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceasermikes002&label=Profile%20views&color=0e75b6&style=flat" alt="ceasermikes002" /> </p>
-<br/>
+
 <h3 align= "left">GitHub Trophies 🏆</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ceasermikes002" alt="ceasermikes002" /></a> </p>
 
@@ -18,7 +18,7 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random tech quote" />
 </p>
-<br/>
+
 <!-- Connect with Me -->
 <h3 align="left">Connect with me 🌐:</h3>
 <p align="left">
