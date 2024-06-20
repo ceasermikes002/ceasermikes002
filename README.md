@@ -18,7 +18,7 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random tech quote" />
 </p>
-
+<br/>
 <!-- Connect with Me -->
 <h3 align="left">Connect with me 🌐:</h3>
 <p align="left">
