@@ -5,7 +5,8 @@
 <p align="center">
   <a href="https://chima-portfolio.vercel.app/">
     <img src="https://user-images.githubusercontent.com/49580304/110934116-b5b3fb00-832b-11eb-9a89-69a2a3db9f4e.gif" alt="banner video" />
-  </a>
+  </a>![pexels-luis-gomes-166706-546819](https://github.com/ceasermikes002/ceasermikes002/assets/117273419/dd0dd0b3-c5af-47a8-965c-79c3ca5a630e)
+
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceasermikes002&label=Profile%20views&color=0e75b6&style=flat" alt="ceasermikes002" /> </p>
@@ -116,10 +117,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ceasermikes002&show_icons=true&locale=en" alt="ceasermikes002" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ceasermikes002&" alt="ceasermikes002" /></p>
 
-<!-- Buy Me a Coffee -->
-<h3 align="center">☕ Buy Me a Coffee</h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/ceasermikes002" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" />
-  </a>
-</p>
+  
