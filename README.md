@@ -2,9 +2,10 @@
 <h3 align="center">I am not just a developer; I am a creator with a relentless passion for translating ideas into interactive and visually stunning user experiences. My journey into the world of coding began with a fascination for the limitless possibilities that technology offers.</h3>
 
 <!-- Top Banner Video -->
+<!-- Top Banner Video -->
 <p align="center">
   <a href="https://chima-portfolio.vercel.app/" target="_blank">
-    <img src="https://i.ibb.co/bRDQv8W/banner-thumbnail.jpg" alt="banner video" />
+    <img src="https://i.ibb.co/bRDQv8W/banner-thumbnail.jpg" alt="banner video" style="width: 100%;" />
   </a>
 </p>
 
