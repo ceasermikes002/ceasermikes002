@@ -4,8 +4,8 @@
 <!-- Top Banner Video -->
 <p align="center">
   <a href="https://chima-portfolio.vercel.app/">
-    <img src="https://user-images.githubusercontent.com/49580304/110934116-b5b3fb00-832b-11eb-9a89-69a2a3db9f4e.gif" alt="banner video" />
-  </a>![pexels-luis-gomes-166706-546819](https://github.com/ceasermikes002/ceasermikes002/assets/117273419/dd0dd0b3-c5af-47a8-965c-79c3ca5a630e)
+    <img src="[https://user-images.githubusercontent.com/49580304/110934116-b5b3fb00-832b-11eb-9a89-69a2a3db9f4e.gif](https://ibb.co/bRDQv8W)" alt="banner video" />
+  </a>
 
 </p>
 
