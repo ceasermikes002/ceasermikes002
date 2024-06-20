@@ -3,10 +3,9 @@
 
 <!-- Top Banner Video -->
 <p align="center">
-  <a href="https://chima-portfolio.vercel.app/">
-    <img src="[https://user-images.githubusercontent.com/49580304/110934116-b5b3fb00-832b-11eb-9a89-69a2a3db9f4e.gif](https://ibb.co/bRDQv8W)" alt="banner video" />
+  <a href="https://chima-portfolio.vercel.app/" target="_blank">
+    <img src="https://i.ibb.co/bRDQv8W/banner-thumbnail.jpg" alt="banner video" />
   </a>
-
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceasermikes002&label=Profile%20views&color=0e75b6&style=flat" alt="ceasermikes002" /> </p>
