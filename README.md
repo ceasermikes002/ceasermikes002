@@ -19,14 +19,14 @@
 </p>
 
 <!-- Connect with Me -->
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me 🌐:</h3>
 <p align="left">
   <a href="https://twitter.com/ceaser_mikes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ceaser_mikes" height="30" width="40" /></a>
   <a href="https://www.instagram.com/_.ctech_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your_instagram_username" height="30" width="40" /></a>
 </p>
 
 <!-- Languages and Tools -->
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools ⚙:</h3>
 <p align="left">
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
