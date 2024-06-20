@@ -98,7 +98,7 @@
 </p>
 
 <!-- Top Contributed Repos -->
-<h3 align="left">Top Contributed Repos:</h3>
+<h3 align="left">🔝 Top Contributed Repos:</h3>
 <p align="left">
   <a href="https://github.com/ceasermikes002/google-chrome-extension">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ceasermikes002&repo=google-chrome-extension&theme=dark" />
