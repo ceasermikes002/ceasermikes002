@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceasermikes002&label=Profile%20views&color=0e75b6&style=flat" alt="ceasermikes002" /> </p>
 
+**GitHub Trophies 🏆**
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ceasermikes002" alt="ceasermikes002" /></a> </p>
 
 - 🔭 I’m currently working on [Google Chrome Extension](https://github.com/ceasermikes002/google-chrome-extension) with [Mmesonma](https://github.com/Mmeso1/)
