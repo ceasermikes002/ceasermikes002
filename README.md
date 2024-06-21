@@ -20,7 +20,6 @@
 <p align="center" style="border-style: solid;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random tech quote" />
 </p>
-<br/>
 <!-- Connect with Me -->
 <h3 align="left">Connect with me 🌐:</h3>
 <p align="left">
