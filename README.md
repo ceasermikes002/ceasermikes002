@@ -16,19 +16,19 @@
 - ⚡ Fun fact **I can't stay without coding for 48 hours**
 <br/>
 <!-- Random Tech Quote -->
-<h3 align="center">💡 Random Tech Quote 💡</h3>
+<h2 align="center">💡 Random Tech Quote 💡</h2>
 <p align="center" style="border-style: solid;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random tech quote" />
 </p>
 <!-- Connect with Me -->
-<h3 align="left">Connect with me 🌐:</h3>
+<h2 align="left">Connect with me 🌐:</h2>
 <p align="left">
   <a href="https://twitter.com/ceaser_mikes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ceaser_mikes" height="30" width="40" /></a>
   <a href="https://www.instagram.com/_.ctech_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your_instagram_username" height="30" width="40" /></a>
 </p>
 <br/>
 <!-- Languages and Tools -->
-<h3 align="left">Languages and Tools ⚙:</h3>
+<h2 align="left">Languages and Tools ⚙:</h2>
 <p align="left">
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
@@ -99,13 +99,13 @@
 </p>
 <br/>
 <!-- Wakatime Stat -->
-<h3 align="left">Wakatime Stats 🕒:</h3>
+<h2 align="left">Wakatime Stats 🕒:</h2>
 <div align="center">
   <img src="https://wakatime.com/share/@1de2f53e-caac-432b-bb25-4b3a67e31e49/adace61d-48c4-48ea-9c38-7f46ade0f23e.svg" alt="Wakatime Stats" style="max-width: 100%;">
 </div
 <br/>
 <!-- Top Contributed Repos -->
-<h3 align="left">🔝 Top Contributed Repos:</h3>
+<h2 align="left">🔝 Top Contributed Repos:</h2>
 <p align="left">
   <a href="https://github.com/ceasermikes002/google-chrome-extension">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ceasermikes002&repo=google-chrome-extension&theme=dark" />
@@ -113,7 +113,7 @@
 </p>
 <br/>
 <!-- GitHub Stats -->
-<h3 align="left">GitHub Stats 📈</h3>
+<h2 align="left">GitHub Stats 📈</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ceasermikes002&show_icons=true&locale=en&layout=compact" alt="ceasermikes002" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ceasermikes002&show_icons=true&locale=en" alt="ceasermikes002" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ceasermikes002&" alt="ceasermikes002" /></p>
