@@ -16,7 +16,7 @@
 <br/>
 <!-- Random Tech Quote -->
 <h3 align="center">💡 Random Tech Quote 💡</h3>
-<p align="center" style="">
+<p align="center" style="border-style: solid;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random tech quote" />
 </p>
 <br/>
