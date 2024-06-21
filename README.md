@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Emeka-Iheonu Chimaobi</h1>
-<h3 align="center">I am not just a developer; I am a creator with a relentless passion for translating ideas into interactive and visually stunning user experiences. My journey into the world of coding began with a fascination for the limitless possibilities that technology offers. I pursued an ADSE certificate in Software Engineering at [Aptech Learning](https://aptech-nigeria.com/), specializing in ADSE.</h3>
+<h1 align="center">Hi   <img src="https://media.tenor.com/images/3af89b4b6c618c6ee85236787635c79e/tenor.gif" alt="Waving Hand GIF" width="50" height="50">
+ I'm Emeka-Iheonu Chimaobi</h1>
+<h3 align="center">I am not just a developer; I am a creator with a relentless passion for translating ideas into interactive and visually stunning user experiences. My journey into the world of coding began with a fascination for the limitless possibilities that technology offers.
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceasermikes002&label=Profile%20views&color=0e75b6&style=flat" alt="ceasermikes002" /> </p>
 <br/>
