@@ -6,7 +6,7 @@
 <br/>
 <h2 align="left">GitHub Trophies 🏆</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ceasermikes002" alt="ceasermikes002" /></a> </p>
-<br/>
+
 - 🔭 I’m currently working on [Google Chrome Extension](https://github.com/ceasermikes002/google-chrome-extension) with [Mmesonma](https://github.com/Mmeso1/)
 - 🌱 I’m currently learning **Web3, AI/ML, DataScience**
 - 👨‍💻 My Online Portfolio is at [This Link](https://chima-portfolio.vercel.app/)
