@@ -3,7 +3,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceasermikes002&label=Profile%20views&color=0e75b6&style=flat" alt="ceasermikes002" /> </p>
-<p align="left"><img src="https://wakatime.com/share/@1de2f53e-caac-432b-bb25-4b3a67e31e49/adace61d-48c4-48ea-9c38-7f46ade0f23e.svg"/></p>
+
 <br/>
 <h2 align="left">GitHub Trophies 🏆</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ceasermikes002" alt="ceasermikes002" /></a> </p>
@@ -98,6 +98,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </p>
+<br/>
+<!-- Wakatime Stat -->
+<h3 align="left">Wakatime Stats 🕒:</h3>
+<div align="center">
+  <img src="https://wakatime.com/share/@1de2f53e-caac-432b-bb25-4b3a67e31e49/adace61d-48c4-48ea-9c38-7f46ade0f23e.svg" alt="Wakatime Stats" style="max-width: 100%;">
+</div
 <br/>
 <!-- Top Contributed Repos -->
 <h3 align="left">🔝 Top Contributed Repos:</h3>
