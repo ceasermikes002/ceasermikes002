@@ -1,86 +1,105 @@
-<h2 align="center">Hi 👋, I'm Emeka-Iheonu Chimaobi</h2>
+<h1 align="center">Hi 👋, I'm Emeka-Iheonu Chimaobi</h1>
+<h3 align="center">I am not just a developer; I am a creator with a relentless passion for translating ideas into interactive and visually stunning user experiences. My journey into the world of coding began with a fascination for the limitless possibilities that technology offers.</h3>
 
-<p align="center">
-  <img src="https://media.tenor.com/images/3af89b4b6c618c6ee85236787635c79e/tenor.gif" alt="Waving Hand GIF" width="50" height="50">
-</p>
 
-<h3 align="center">I am not just a developer; I am a creator with a relentless passion for translating ideas into interactive and visually stunning user experiences. My journey into the world of coding began with a fascination for the limitless possibilities that technology offers. I pursued an ADSE certificate in Software Engineering at <a href="https://aptech-nigeria.com/">Aptech Learning</a>, specializing in ADSE.</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ceasermikes002&label=Profile%20views&color=0e75b6&style=flat" alt="ceasermikes002" />
-</p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ceasermikes002&label=Profile%20views&color=0e75b6&style=flat" alt="ceasermikes002" /> </p>
+<br/>
 <h2 align="left">GitHub Trophies 🏆</h2>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ceasermikes002" alt="ceasermikes002" />
-  </a>
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ceasermikes002" alt="ceasermikes002" /></a> </p>
 
-<!-- Current Projects -->
-<h2 align="left">Current Projects 🔭</h2>
-<ul>
-  <li>I’m currently working on <a href="https://github.com/ceasermikes002/google-chrome-extension">Google Chrome Extension</a> with <a href="https://github.com/Mmeso1/">Mmesonma</a></li>
-</ul>
-
-<!-- Learning -->
-<h2 align="left">Learning 🌱</h2>
-<ul>
-  <li>Web3, AI/ML, DataScience</li>
-</ul>
-
-<!-- Portfolio -->
-<h2 align="left">Portfolio 💼</h2>
-<ul>
-  <li>My Online Portfolio is at <a href="https://chima-portfolio.vercel.app/">This Link</a></li>
-</ul>
-
-<!-- Ask me about -->
-<h2 align="left">Ask me about 💬</h2>
-<ul>
-  <li>NextJs, HTML, CSS, JavaScript, TypeScript, Python</li>
-</ul>
-
-<!-- Contact -->
-<h2 align="left">How to reach me 📫</h2>
-<ul>
-  <li>Email: <a href="mailto:michealceaser02@gmail.com">michealceaser02@gmail.com</a></li>
-</ul>
-
-<!-- Fun Fact -->
-<h2 align="left">Fun Fact ⚡</h2>
-<ul>
-  <li>I can't stay without coding for 48 hours</li>
-</ul>
+- 🔭 I’m currently working on [Google Chrome Extension](https://github.com/ceasermikes002/google-chrome-extension) with [Mmesonma](https://github.com/Mmeso1/)
+- 🌱 I’m currently learning **Web3, AI/ML, DataScience**
+- 👨‍💻 My Online Portfolio is at [This Link](https://chima-portfolio.vercel.app/)
+- 💬 Ask me about **NextJs, HTML, CSS, JavaScript, TypeScript, Python**
+- 📫 How to reach me **michealceaser02@gmail.com**
+- ⚡ Fun fact **I can't stay without coding for 48 hours**
 
 <!-- Random Tech Quote -->
-<h2 align="center">💡 Random Tech Quote 💡</h2>
-<p align="center" style="margin: 20px 0; border-bottom: 1px solid #ccc;">
+<h3 align="center">💡 Random Tech Quote 💡</h3>
+<p align="center" style="margin: 20px 0;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random tech quote" />
 </p>
-
+<br/>
 <!-- Connect with Me -->
-<h2 align="left">Connect with me 🌐</h2>
+<h3 align="left">Connect with me 🌐:</h3>
 <p align="left">
-  <a href="https://twitter.com/ceaser_mikes" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ceaser_mikes" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/_.ctech_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your_instagram_username" height="30" width="40" />
-  </a>
+  <a href="https://twitter.com/ceaser_mikes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ceaser_mikes" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/_.ctech_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your_instagram_username" height="30" width="40" /></a>
 </p>
 
 <!-- Languages and Tools -->
-<h2 align="left">Languages and Tools ⚙</h2>
+<h3 align="left">Languages and Tools ⚙:</h3>
 <p align="left">
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
   </a>
-  <!-- Add other tools/icons as per your preference -->
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  </a>
+  <a href="https://www.framer.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
 </p>
 
 <!-- Top Contributed Repos -->
-<h2 align="left">🔝 Top Contributed Repos</h2>
+<h3 align="left">🔝 Top Contributed Repos:</h3>
 <p align="left">
   <a href="https://github.com/ceasermikes002/google-chrome-extension">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ceasermikes002&repo=google-chrome-extension&theme=dark" />
@@ -88,12 +107,6 @@
 </p>
 
 <!-- GitHub Stats -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ceasermikes002&show_icons=true&locale=en&layout=compact" alt="ceasermikes002" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ceasermikes002&show_icons=true&locale=en" alt="ceasermikes002" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ceasermikes002&" alt="ceasermikes002" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ceasermikes002&show_icons=true&locale=en&layout=compact" alt="ceasermikes002" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ceasermikes002&show_icons=true&locale=en" alt="ceasermikes002" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ceasermikes002&" alt="ceasermikes002" /></p>
