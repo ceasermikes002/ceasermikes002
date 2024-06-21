@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emeka-Iheonu Chimaobi</h1>
-<h3 align="center">I am not just a developer; I am a creator with a relentless passion for translating ideas into interactive and visually stunning user experiences. My journey into the world of coding began with a fascination for the limitless possibilities that technology offers</h3>
+<h3 align="center">I am not just a developer; I am a creator with a relentless passion for translating ideas into interactive and visually stunning user experiences. My journey into the world of coding began with a fascination for the limitless possibilities that technology offers. I pursued an ADSE certificate in Software Engineering at [Aptech Learning](https://aptech-nigeria.com/), specializing in ADSE.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceasermikes002&label=Profile%20views&color=0e75b6&style=flat" alt="ceasermikes002" /> </p>
 <br/>
-<h2 align= "left">GitHub Trophies 🏆</h2>
+<h2 align="left">GitHub Trophies 🏆</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ceasermikes002" alt="ceasermikes002" /></a> </p>
 
 - 🔭 I’m currently working on [Google Chrome Extension](https://github.com/ceasermikes002/google-chrome-extension) with [Mmesonma](https://github.com/Mmeso1/)
@@ -15,7 +15,7 @@
 
 <!-- Random Tech Quote -->
 <h3 align="center">💡 Random Tech Quote 💡</h3>
-<p align="center">
+<p align="center" style="margin: 20px 0;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random tech quote" />
 </p>
 <br/>
@@ -109,6 +109,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ceasermikes002&show_icons=true&locale=en&layout=compact" alt="ceasermikes002" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ceasermikes002&show_icons=true&locale=en" alt="ceasermikes002" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ceasermikes002&" alt="ceasermikes002" /></p>
-
-   <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
