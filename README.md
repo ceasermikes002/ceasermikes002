@@ -6,14 +6,14 @@
 <br/>
 <h2 align="left">GitHub Trophies 🏆</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ceasermikes002" alt="ceasermikes002" /></a> </p>
-
+<br/>
 - 🔭 I’m currently working on [Google Chrome Extension](https://github.com/ceasermikes002/google-chrome-extension) with [Mmesonma](https://github.com/Mmeso1/)
 - 🌱 I’m currently learning **Web3, AI/ML, DataScience**
 - 👨‍💻 My Online Portfolio is at [This Link](https://chima-portfolio.vercel.app/)
 - 💬 Ask me about **NextJs, HTML, CSS, JavaScript, TypeScript, Python**
 - 📫 How to reach me **michealceaser02@gmail.com**
 - ⚡ Fun fact **I can't stay without coding for 48 hours**
-
+<br/>
 <!-- Random Tech Quote -->
 <h3 align="center">💡 Random Tech Quote 💡</h3>
 <p align="center" style="margin: 20px 0;">
@@ -26,7 +26,7 @@
   <a href="https://twitter.com/ceaser_mikes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ceaser_mikes" height="30" width="40" /></a>
   <a href="https://www.instagram.com/_.ctech_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your_instagram_username" height="30" width="40" /></a>
 </p>
-
+<br/>
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools ⚙:</h3>
 <p align="left">
@@ -97,7 +97,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </p>
-
+<br/>
 <!-- Top Contributed Repos -->
 <h3 align="left">🔝 Top Contributed Repos:</h3>
 <p align="left">
@@ -105,9 +105,9 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ceasermikes002&repo=google-chrome-extension&theme=dark" />
   </a>
 </p>
-
+<br/>
 <!-- GitHub Stats -->
-<h3 align="center">GitHub Stats 📈</h3>
+<h3 align="left">GitHub Stats 📈</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ceasermikes002&show_icons=true&locale=en&layout=compact" alt="ceasermikes002" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ceasermikes002&show_icons=true&locale=en" alt="ceasermikes002" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ceasermikes002&" alt="ceasermikes002" /></p>
