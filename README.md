@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I can't stay without coding for 48 hours**
 
 <!-- Random Tech Quote -->
-<h3 align="center">💡 Random Tech Quote 💡</h3>
+<h2 align="center">💡 Random Tech Quote 💡</h2>
 <p align="center" style="margin: 20px 0;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random tech quote" />
 </p>
@@ -27,7 +27,7 @@
 </p>
 
 <!-- Languages and Tools -->
-<h3 align="left">Languages and Tools ⚙:</h3>
+<h2 align="left">Languages and Tools ⚙:</h2>
 <p align="left">
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
@@ -98,7 +98,7 @@
 </p>
 
 <!-- Top Contributed Repos -->
-<h3 align="left">🔝 Top Contributed Repos:</h3>
+<h2 align="left">🔝 Top Contributed Repos:</h2>
 <p align="left">
   <a href="https://github.com/ceasermikes002/google-chrome-extension">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ceasermikes002&repo=google-chrome-extension&theme=dark" />
@@ -106,6 +106,7 @@
 </p>
 
 <!-- GitHub Stats -->
+<h2 align="left">GitHub stats 📈:</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ceasermikes002&show_icons=true&locale=en&layout=compact" alt="ceasermikes002" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ceasermikes002&show_icons=true&locale=en" alt="ceasermikes002" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ceasermikes002&" alt="ceasermikes002" /></p>
