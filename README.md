@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on a [Google Chrome Extension](https://github.com/ceasermikes002/google-chrome-extension) with [Mmesonma](https://github.com/Mmeso1/)
 - 🌱 I’m currently learning **Web3, AI/ML, DataScience**
-- 👨‍💻 My Online Portfolio is [Here](https://chima-portfolio.vercel.app/)
+- 👨‍💻 My Online Portfolio is [here](https://chima-portfolio.vercel.app/)
 - 💬 Ask me about **NextJs, HTML, CSS, JavaScript, TypeScript, Python**
 - 📫 How to reach me: **michealceaser02@gmail.com**
 - ⚡ Fun fact: **I can't stay without coding for 48 hours**
