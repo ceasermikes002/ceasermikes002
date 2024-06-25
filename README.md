@@ -99,9 +99,9 @@
 </p>
 <br/>
 <!-- Wakatime Stat -->
-<h2 align="left">Wakatime Stats 🕒:</h2>
+<h2 align="left">Coding Stats 🕒:</h2>
 <div align="center">
-  <img src="https://wakatime.com/share/@1de2f53e-caac-432b-bb25-4b3a67e31e49/adace61d-48c4-48ea-9c38-7f46ade0f23e.svg" alt="Wakatime Stats" style="max-width: 100%;">
+  <img src="https://wakatime.com/share/@1de2f53e-caac-432b-bb25-4b3a67e31e49/4caab6e4-c5c7-4cc2-a6ed-4e159169f409.svg" alt="Wakatime Stats" style="max-width: 100%;">
 </div
 <br/>
 <!-- Top Contributed Repos -->
