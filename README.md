@@ -99,11 +99,11 @@
 </p>
 <br/>
 <!-- Wakatime Stat -->
-<h2 align="left">Coding Stats 🕒</h2>
+<h2 align="left">Wakatime Stats 🕒</h2>
 <p align="left">
   <a href="https://wakatime.com/@1de2f53e-caac-432b-bb25-4b3a67e31e49"><img src="https://wakatime.com/badge/user/1de2f53e-caac-432b-bb25-4b3a67e31e49.svg" alt="Total time coded since Jun 20 2024" /></a>
 </p>
-
+<br/>
 <!-- Top Contributed Repos -->
 <h2 align="left">🔝 Top Contributed Repos:</h2>
 <p align="left">
