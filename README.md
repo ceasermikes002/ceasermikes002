@@ -101,7 +101,7 @@
 <!-- Wakatime Stat -->
 <h2 align="left">Coding Stats 🕒:</h2>
 <div align="center">
-  <img src="https://wakatime.com/share/@1de2f53e-caac-432b-bb25-4b3a67e31e49/4caab6e4-c5c7-4cc2-a6ed-4e159169f409.svg" alt="Wakatime Stats" style="max-width: 100%;">
+ <a href="https://wakatime.com/@1de2f53e-caac-432b-bb25-4b3a67e31e49"><img src="https://wakatime.com/badge/user/1de2f53e-caac-432b-bb25-4b3a67e31e49.svg" alt="Total time coded since Jun 20 2024" /></a>
 </div
 <br/>
 <!-- Top Contributed Repos -->
