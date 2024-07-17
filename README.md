@@ -8,7 +8,7 @@
 <h2 align="left">GitHub Trophies 🏆</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ceasermikes002" alt="ceasermikes002" /></a> </p>
 
-- 🔭 I’m currently working on a [Blog app](https://github.com/ceasermikes002/blog-fullstack-client)
+- 🔭 I’m currently working on a [Blog app](https://github.com/ceasermikes002/blog-fullstack-admin)
 - 🌱 I’m currently learning **Web3, AI/ML, DataScience**
 - 👨‍💻 My Online Portfolio is [here](https://chima-portfolio.vercel.app/)
 - 💬 Ask me about **NextJs, HTML, CSS, JavaScript, TypeScript, Python**
