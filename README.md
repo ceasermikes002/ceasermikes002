@@ -9,11 +9,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ceasermikes002" alt="ceasermikes002" /></a> </p>
 
 - 🔭 I’m currently working on a Blog App. [Client](https://github.com/ceasermikes002/blog-fullstack-admin) and [Admin](https://github.com/ceasermikes002/blog-fullstack-client)
-- 🌱 I’m currently learning **Web3, AI/ML, DataScience**
+- 🌱 I’m currently learning **Web3, AI/ML, DataScience**.
+- 👨🏽‍🏫 Personal online coding instructor.
 - 👨‍💻 My Online Portfolio is [here](https://chima-portfolio.vercel.app/)
-- 💬 Ask me about **NextJs, HTML, CSS, JavaScript, TypeScript, Python**
-- 📫 How to reach me: **michealceaser02@gmail.com**
-- ⚡ Fun fact: **I can't stay without coding for 48 hours**
+- 💬 Ask me about **NextJs, HTML, CSS, JavaScript, TypeScript, Python**.
+- 📫 How to reach me: **michealceaser02@gmail.com**.
+- ⚡ Fun fact: **I can't stay without coding for 48 hours**.
 <br/>
 <!-- Random Tech Quote -->
 <h2 align="center">💡 Random Tech Quote 💡</h2>
