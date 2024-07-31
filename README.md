@@ -37,7 +37,7 @@
 <br/>
 
 <!-- GitHub Readme Streak Stats -->
-<h2 align="left">GitHub Streak</h2>
+<h2 align="left">GitHub Streak 🐙</h2>
 <p align="left">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ceasermikes002&theme=dark&hide_border=true" alt="ceasermikes002's GitHub Streak" />
