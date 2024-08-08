@@ -58,6 +58,13 @@
 <p align="center" style="border-style: solid;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random tech quote" />
 </p>
+<br/>
+<!-- GitHub Readme Stats -->
+  <h2 align="left">GitHub Readme Stats</h2>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ceasermikes002&show_icons=true&theme=dracula" alt="ceasermikes002's GitHub stats" />
+  </a>
+  <br />
 
 <!-- Connect with Me -->
 <h2 align="left">Connect with me 🌐:</h2>
