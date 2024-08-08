@@ -37,7 +37,14 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Vite.js-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite.js" />
+  <img src="https://img.shields.io/badge/Clerk-1F2937?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk" />
+  <img src="https://img.shields.io/badge/ShadcnUI-4A5568?style=for-the-badge&logo=shadcnui&logoColor=white" alt="ShadcnUI" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextauth&logoColor=white" alt="NextAuth" />
+  <img src="https://img.shields.io/badge/ngrok-1F1F1F?style=for-the-badge&logo=ngrok&logoColor=white" alt="ngrok" />
 </p>
+
 <br/>
 
 <!-- WakaTime Stats -->
