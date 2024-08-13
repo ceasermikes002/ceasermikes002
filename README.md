@@ -13,7 +13,7 @@
 - 👨‍💻 My Online Portfolio is [here](https://chima-portfolio.vercel.app/)
 - 💬 Ask me about **NextJs, HTML, CSS, JavaScript, TypeScript, Python**.
 - 📫 How to reach me: **michealceaser02@gmail.com**.
-- ⚡ Fun fact: **I can't stay without coding for 48 hours**.
+- ⚡ Fun fact: **When I'm not coding, you can find me listening to Lana Del Rey.**.
 <br/>
 
 <!-- Languages & Tools Icons -->
