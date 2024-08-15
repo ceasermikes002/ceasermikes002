@@ -13,7 +13,7 @@
 - 👨‍💻 My Online Portfolio is [here](https://chima-portfolio.vercel.app/)
 - 💬 Ask me about **NextJs, HTML, CSS, JavaScript, TypeScript, Python**.
 - 📫 How to reach me: **michealceaser02@gmail.com**.
-- ⚡ Fun fact: **When I'm not coding, you can find me listening to Lana Del Rey, The Neighbourhood, Arctic Monkeys, Marc De Marco and More**.
+- ⚡ Fun fact: **When I'm not coding, you can find me listening to Lana Del Rey, The Neighbourhood, Arctic Monkeys, Marc De Marco and Tame Impala**.
 <br/>
 
 <!-- Languages & Tools Icons -->
