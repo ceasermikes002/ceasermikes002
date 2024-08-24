@@ -62,41 +62,25 @@
 
 <!-- Random Tech Quote -->
 <h2 align="center">💡 Random Tech Quote 💡</h2>
-<p align="center" style="border-style: solid;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random tech quote" />
+<p align="center">
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Tech Quote" />
 </p>
-<br/>
 
-<!-- GitHub Readme Stats -->
-  <h2 align="left">GitHub Readme Stats ✨</h2>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ceasermikes002&show_icons=true&theme=dracula" alt="ceasermikes002's GitHub stats" />
-  </a>
-  <br />
+<!-- GitHub Stats -->
+<h2 align="left">📊 GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.subhamraoniar28.vercel.app/api?username=ceasermikes002&show_icons=true&theme=merko" alt="ceasermikes002" />
+  <img src="https://github-readme-stats.subhamraoniar28.vercel.app/api/top-langs/?username=ceasermikes002&layout=compact&theme=merko" alt="ceasermikes002" />
+</div>
 
-<!-- Connect with Me -->
-<h2 align="left">Connect with me 🌐:</h2>
-<p align="left">
-  <a href="https://twitter.com/ceaser_mikes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ceaser_mikes" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/_.ctech_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your_instagram_username" height="30" width="40" /></a>
-</p>
-<br/>
+<!-- Streak Stats -->
+<h2 align="left">🔥 Streak Stats</h2>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ceasermikes002&theme=merko&hide_border=true&border_radius=5" alt="ceasermikes002's streak" />
+</div>
 
-<!-- GitHub Readme Streak Stats -->
-<h2 align="left">GitHub Streak 🐙</h2>
-<p align="left">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ceasermikes002&theme=dark&hide_border=true" alt="ceasermikes002's GitHub Streak" />
-  </a>
-</p>
-<br/>
-
-<!-- Languages and Tools -->
-<h2 align="left">Most used Languages 📈:</h2>
-<p align="left">
-  <!-- Add your existing tools and languages here -->
-  <!-- Example for GitHub Readme Stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceasermikes002&layout=compact&theme=dracula" alt="Most Used Languages" />
-  </a>
-</p>
+<!-- Contribution Graph -->
+<h2 align="center">🏆 My GitHub Contribution Graph</h2>
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ceasermikes002&theme=merko&hide_border=true" alt="GitHub Contributor Stats" />
+</div>
