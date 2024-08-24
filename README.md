@@ -96,6 +96,6 @@
 <p align="left">
   <!-- Add your existing tools and languages here -->
   <!-- Example for GitHub Readme Stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceasermikes002&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  </a>
+ !-- Top Languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceasermikes002&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 </p>
