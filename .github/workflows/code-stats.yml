@@ -1,32 +1,30 @@
-name: Update README Stats
+name: Count Lines of Code
 
-on:
-  schedule:
-    - cron: '0 0 * * *'  # Runs every day at midnight
+on: 
   push:
     branches:
-      - main  # Change this to the branch you use if different
+      - main
 
 jobs:
-  update-readme:
+  cloc:
     runs-on: ubuntu-latest
+    
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v2
 
-      - name: Get Total Lines of Code
+      - name: Install cloc
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y cloc
+
+      - name: Run cloc
         run: |
           cloc --vcs git --out cloc_output.txt
           cat cloc_output.txt | grep SUM > line_stats.txt
 
-      - name: Update README with Stats
-        run: |
-          LINES=$(cat line_stats.txt | awk '{print $5}')
-          sed -i "s/<!-- LINES -->/${LINES}/" README.md
-
-      - name: Commit Changes
-        run: |
-          git config --global user.email "actions@github.com"
-          git config --global user.name "GitHub Actions"
-          git add README.md
-          git commit -m "Updated code stats"
-          git push
+      - name: Upload line stats
+        uses: actions/upload-artifact@v2
+        with:
+          name: line-stats
+          path: line_stats.txt
