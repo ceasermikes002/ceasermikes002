@@ -1,1 +1,36 @@
+name: Update Code Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Run daily at midnight (UTC)
+  workflow_dispatch:  # Allow manual triggering from GitHub UI
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Install cloc (Count Lines of Code)
+        run: sudo apt-get install -y cloc
+
+      - name: Count Lines of Code
+        run: cloc . --exclude-dir=node_modules > code-stats.txt
+
+      - name: Update README with Code Stats
+        run: |
+          echo "## 📊 My Coding Stats" > temp.md
+          cat code-stats.txt >> temp.md
+          cat README.md >> temp.md
+          mv temp.md README.md
+
+      - name: Commit Changes
+        run: |
+          git config --local user.email "your-email@example.com"
+          git config --local user.name "GitHub Actions"
+          git add README.md
+          git commit -m "Updated code stats"
+          git push
 
