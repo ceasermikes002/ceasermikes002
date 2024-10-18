@@ -24,7 +24,7 @@ jobs:
           cat cloc_output.txt | grep SUM > line_stats.txt
 
       - name: Upload line stats
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3  # Updated to v3
         with:
           name: line-stats
           path: line_stats.txt
