@@ -91,10 +91,6 @@
 </p>
 <br/>
 
-<h2 align="left">Total Lines of Code 🚀</h2>
-<p><strong>Total lines of code:</strong> <!-- LINES --></p>
-<br/>
-
 <!-- Languages and Tools -->
 <h2 align="left">Most used Languages 📈:</h2>
 <p align="left">
