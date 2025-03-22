@@ -8,11 +8,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ceasermikes002" alt="ceasermikes002" /></a> </p>
 
 - 🔭 I’m currently working on a Blog App. [Admin](https://github.com/ceasermikes002/blog-fullstack-admin) and [Client](https://github.com/ceasermikes002/blog-fullstack-client)
-- 🌱 I’m currently learning **Machine Learning and AI Model Development**.
+- 🌱 I’m currently learning **Soroban and Cairo smart contract development, Data analysis and Data Science**.
 - 👨🏽‍🏫 Personal online coding instructor.
 - 👨‍💻 My Online Portfolio is [here](https://chima-portfolio.vercel.app/)
 - 💬 Ask me about **NextJs, HTML, CSS, JavaScript, TypeScript, Python, Solidity**.
-- 📫 How to reach me: **michealceaser02@gmail.com**.
+- 📫 How to reach me: **michealceaser02@gmail.com || chimaemekamicheal@gmail.com**.
 - ⚡ Fun fact: **When I'm not coding, you can find me listening to Lana Del Rey, The Neighbourhood, Arctic Monkeys, Marc De Marco, Tame Impala and Cigarettes after sex**.
 <br/>
 
