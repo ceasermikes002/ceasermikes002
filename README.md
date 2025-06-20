@@ -1,6 +1,6 @@
 <!-- Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1e293b&center=true&vCenter=true&width=1000&lines=FulllStack+builder+%7C+Teaching+What+I+Learn+%7C+Solving+Problems+with+Code;Educator%2C+Builder%2C+Fullstack+Engineer;Code.+Teach.+Repeat.+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1e293b&center=true&vCenter=true&width=1000&lines=FulllStack+builder+%7C+Solving+Problems+with+Code;Educator%2C+Builder%2C+Fullstack+Engineer;Code.+Teach.+Repeat.+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 <!-- Custom Banner -->
@@ -28,9 +28,10 @@ I’m not just a developer — I’m a **creator** driven by the limitless possi
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:michealceaser02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:chimaemekamicheal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://twitter.com/ceaser_mikes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.instagram.com/_.ctech_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/chimaobiemeka"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
