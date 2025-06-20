@@ -21,7 +21,7 @@ I’m not just a developer — I’m a **creator** driven by the limitless possi
 - 📖 Learning **Soroban**, **Cairo**, **Data Science**, and **Smart Contracts**  
 - 👨🏽‍🏫 Personal **online coding instructor**  
 - 🌍 Portfolio: [chima-portfolio.vercel.app](https://chima-portfolio.vercel.app)  
-- 💬 Ask me about: `Next.js`, `TypeScript`, `Python`, `Solidity`, `Smart Contracts`, `Prisma`
+- 💬 Ask me about: `Next.js`, `TypeScript`, `Python`, `Solidity`, `Nest.js`
 
 ---
 
