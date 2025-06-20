@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Emeka-Iheonu+Chimaobi;Creative+Developer+%7C+Tech+Educator+%7C+Lifelong+Learner;Turning+Ideas+Into+Code+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1e293b&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Emeka-Iheonu+Chimaobi;Creative+Developer+%7C+Tech+Educator+%7C+Lifelong+Learner;Turning+Ideas+Into+Code+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -46,8 +46,8 @@ I’m not just a developer — I’m a **creator** driven by the limitless possi
 ### 🧩 GitHub Stats & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ceasermikes002&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceasermikes002&layout=compact&theme=tokyonight&langs_count=10&hide_progress=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ceasermikes002&show_icons=true&theme=default&border_radius=10&count_private=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceasermikes002&layout=compact&theme=default&langs_count=10&hide_progress=true" height="180px" />
 </p>
 
 ---
@@ -55,7 +55,7 @@ I’m not just a developer — I’m a **creator** driven by the limitless possi
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ceasermikes002&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=ceasermikes002&theme=default&hide_border=true&border_radius=10" />
 </p>
 
 ---
@@ -63,7 +63,7 @@ I’m not just a developer — I’m a **creator** driven by the limitless possi
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ceasermikes002&theme=dracula&row=1&column=6&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ceasermikes002&theme=flat&row=1&column=6&no-bg=true&margin-w=10" />
 </p>
 
 ---
@@ -79,7 +79,7 @@ I’m not just a developer — I’m a **creator** driven by the limitless possi
 ### 💡 Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 </p>
 
 ---
