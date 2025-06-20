@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/ceasermikes002/ceasermikes002/assets/12345678/banner.jpg" alt="Banner" />
+  <img src="https://github.com/ceasermikes002/ceasermikes002/blob/main/readme-banner.png" alt="Banner" />
 </p>
 
 ---
