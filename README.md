@@ -1,8 +1,9 @@
-<!-- Banner -->
+<!-- Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1e293b&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Emeka-Iheonu+Chimaobi;Creative+Developer+%7C+Tech+Educator+%7C+Lifelong+Learner;Turning+Ideas+Into+Code+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1e293b&center=true&vCenter=true&width=1000&lines=Building+for+the+Web+%7C+Teaching+What+I+Learn+%7C+Solving+Problems+with+Code;Educator%2C+Builder%2C+Fullstack+Engineer;Code.+Teach.+Repeat.+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
+<!-- Custom Banner -->
 <p align="center">
   <img src="https://github.com/ceasermikes002/ceasermikes002/blob/main/readme-banner.png" alt="Banner" />
 </p>
@@ -37,8 +38,7 @@ I’m not just a developer — I’m a **creator** driven by the limitless possi
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <!-- Top Tools -->
-  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,nextjs,react,nodejs,tailwind,solidity,prisma,postgres,sqlite,flutter,dart,nestjs,express,vite,vercel,git,github,vscode,postman,figma,ngrok,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,nextjs,react,nodejs,tailwind,solidity,prisma,postgres,sqlite,flutter,dart,nestjs,express,vite,vercel,git,github,vscode,postman,figma,docker,mongodb,redis,graphql" />
 </p>
 
 ---
