@@ -32,6 +32,7 @@ I’m not just a developer — I’m a **creator** driven by the limitless possi
   <a href="https://twitter.com/ceaser_mikes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.instagram.com/_.ctech_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/chimaobiemeka"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Code%20Written-11.2M+%20lines-blue?style=for-the-badge&logo=github" />
 </p>
 
 ---
@@ -94,3 +95,7 @@ I’m not just a developer — I’m a **creator** driven by the limitless possi
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ceasermikes002&label=Profile+views&color=0e75b6&style=flat" alt="ceasermikes002" />
 </p>
+
+---
+
+<p align="center"><b>🙏 Thank you for visiting my GitHub profile!</b></p>
