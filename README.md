@@ -32,7 +32,6 @@ I’m not just a developer — I’m a **creator** driven by the limitless possi
   <a href="https://twitter.com/ceaser_mikes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.instagram.com/_.ctech_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/chimaobiemeka"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Code%20Written-11.2M+%20lines-blue?style=for-the-badge&logo=github" />
 </p>
 
 ---
@@ -76,6 +75,10 @@ I’m not just a developer — I’m a **creator** driven by the limitless possi
   <a href="https://wakatime.com/@1de2f53e-caac-432b-bb25-4b3a67e31e49"><img src="https://wakatime.com/badge/user/1de2f53e-caac-432b-bb25-4b3a67e31e49.svg" alt="Total time coded since Jun 20 2024" /></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20Written-11,215,899%20lines-blue?style=for-the-badge&logo=github" alt="Lines of Code" />
+</p>
+
 ---
 
 ### 💡 Random Dev Quote
@@ -98,4 +101,6 @@ I’m not just a developer — I’m a **creator** driven by the limitless possi
 
 ---
 
-<p align="center"><b>🙏 Thank you for visiting my GitHub profile!</b></p>
+<p align="center">
+  <strong>✨ Thank you for visiting my profile! ✨</strong>
+</p>
