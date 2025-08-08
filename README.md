@@ -20,7 +20,7 @@ I’m not just a developer — I’m a **creator** driven by the limitless possi
 - 🔭 Building a full-stack **Blog App** → [Admin Panel](https://github.com/ceasermikes002/blog-fullstack-admin) | [Client App](https://github.com/ceasermikes002/blog-fullstack-client)  
 - 📖 Learning **Soroban**, **Cairo**, **Data Science**, and **Smart Contracts**  
 - 👨🏽‍🏫 Personal **online coding instructor**  
-- 🌍 Portfolio: [chima-portfolio.vercel.app](https://chima-portfolio.vercel.app)  
+- 🌍 Portfolio: [chima.website](https://chima.website)  
 - 💬 Ask me about: `Next.js`, `TypeScript`, `Python`, `Solidity`, `Nest.js`
 
 ---
