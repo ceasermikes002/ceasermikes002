@@ -11,7 +11,8 @@
 ---
 
 ### 🧠 About Me
-I’m not just a developer — I’m a **creator** driven by the limitless possibilities of technology. I bring ideas to life with code, and I’m passionate about crafting seamless, interactive, and visually stunning user experiences.
+
+I'm not just a developer — I'm a **creator** driven by the limitless possibilities of technology. I bring ideas to life with code, and I'm passionate about crafting seamless, interactive, and visually stunning user experiences.
 
 ---
 
@@ -39,7 +40,11 @@ I’m not just a developer — I’m a **creator** driven by the limitless possi
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,nextjs,react,nodejs,tailwind,solidity,prisma,postgres,sqlite,flutter,dart,nestjs,express,vite,vercel,git,github,vscode,postman,figma,docker,mongodb,redis,graphql" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,nextjs,react,nodejs,tailwind,solidity,prisma,postgres,sqlite,flutter,dart,nestjs,express,vite,vercel,git,github,vscode,postman,figma,docker,mongodb,redis,graphql,cs,cpp,go,aws,gcp,terraform" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML" />
 </p>
 
 ---
@@ -91,7 +96,7 @@ I’m not just a developer — I’m a **creator** driven by the limitless possi
 
 ### 🎧 Fun Fact
 
-> When I’m not coding, you’ll find me vibing to Lana Del Rey, Arctic Monkeys, Tame Impala, Mac DeMarco, The Neighbourhood, and Cigarettes After Sex 🎵
+> When I'm not coding, you'll find me vibing to Lana Del Rey, Arctic Monkeys, Tame Impala, Mac DeMarco, The Neighbourhood, and Cigarettes After Sex 🎵
 
 ---
 
