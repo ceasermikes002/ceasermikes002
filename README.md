@@ -59,25 +59,11 @@ I'm not just a developer — I'm a **creator** driven by the limitless possibili
 
 ---
 
-### 🏆 GitHub Achievements
+### 📊 Additional GitHub Metrics
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ceasermikes002&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ceasermikes002&show_icons=true&count_private=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=ceasermikes002&limit=5&theme=radical&hide_border=true" width="48%" />
 </p>
-
-<!-- Alternative Trophy Services (Try these if above doesn't work) -->
-<!-- Option 2: Different deployment -->
-<!--
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=ceasermikes002&theme=flat&row=1" alt="Trophies" />
-</p>
--->
-
-<!-- Option 3: Ryo-ma's original repo -->
-<!--
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ceasermikes002&theme=dracula&row=1&margin-w=15&margin-h=15" alt="Trophies" />
-</p>
--->
 
 ---
 
