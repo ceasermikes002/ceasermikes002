@@ -11,13 +11,11 @@
 ---
 
 ### 🧠 About Me
-
 I'm not just a developer — I'm a **creator** driven by the limitless possibilities of technology. I bring ideas to life with code, and I'm passionate about crafting seamless, interactive, and visually stunning user experiences.
 
 ---
 
 ### 🚀 Current Focus
-
 - 🔭 Building **[FDAware](https://fdaware-frontend.vercel.app)** — an AI-powered **FDA label automation tool**
 - 📖 Currently learning **DevOps**  
 - 👨🏽‍🏫 Personal **online coding instructor**  
@@ -27,7 +25,6 @@ I'm not just a developer — I'm a **creator** driven by the limitless possibili
 ---
 
 ### 📫 Connect With Me
-
 <p align="left">
   <a href="mailto:chimaemekamicheal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://twitter.com/ceaser_mikes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -38,11 +35,9 @@ I'm not just a developer — I'm a **creator** driven by the limitless possibili
 ---
 
 ### 🛠️ Tech Stack & Tools
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,nextjs,react,nodejs,tailwind,solidity,prisma,postgres,sqlite,flutter,dart,nestjs,express,vite,vercel,git,github,vscode,postman,figma,docker,mongodb,redis,graphql,cs,cpp,go,aws,gcp,terraform" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML" />
 </p>
@@ -50,7 +45,6 @@ I'm not just a developer — I'm a **creator** driven by the limitless possibili
 ---
 
 ### 🧩 GitHub Stats & Insights
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ceasermikes002&show_icons=true&theme=default&border_radius=10&count_private=true" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceasermikes002&layout=compact&theme=default&langs_count=10&hide_progress=true" height="180px" />
@@ -59,35 +53,58 @@ I'm not just a developer — I'm a **creator** driven by the limitless possibili
 ---
 
 ### 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ceasermikes002&theme=default&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ceasermikes002&theme=default&hide_border=false&border_radius=10" alt="GitHub Streak Stats" />
 </p>
+
+<!-- Alternative Streak Option -->
+<!-- 
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ceasermikes002&theme=default" alt="GitHub Streak" />
+</p>
+-->
 
 ---
 
 ### 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ceasermikes002&theme=flat&row=1&column=6&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ceasermikes002&theme=flat&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</p>
+
+<!-- Alternative Trophy Options -->
+<!--
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=ceasermikes002&theme=onedark&no-frame=false&row=2&column=4" alt="Trophies" />
+</p>
+-->
+
+---
+
+### 📊 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ceasermikes002&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
 
 ### ⏱ Wakatime Stats
-
 <p align="center">
   <a href="https://wakatime.com/@1de2f53e-caac-432b-bb25-4b3a67e31e49"><img src="https://wakatime.com/badge/user/1de2f53e-caac-432b-bb25-4b3a67e31e49.svg" alt="Total time coded since Jun 20 2024" /></a>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Code%20Written-11,215,899%20lines-blue?style=for-the-badge&logo=github" alt="Lines of Code" />
 </p>
 
+<!-- Optional: Detailed Wakatime Stats Card -->
+<!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ceasermikes002&layout=compact&theme=default" alt="Wakatime Stats" />
+</p>
+-->
+
 ---
 
 ### 💡 Random Dev Quote
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 </p>
@@ -95,7 +112,6 @@ I'm not just a developer — I'm a **creator** driven by the limitless possibili
 ---
 
 ### 🎧 Fun Fact
-
 > When I'm not coding, you'll find me vibing to Lana Del Rey, Arctic Monkeys, Tame Impala, Mac DeMarco, The Neighbourhood, and Cigarettes After Sex 🎵
 
 ---
