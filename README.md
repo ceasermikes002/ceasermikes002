@@ -57,30 +57,39 @@ I'm not just a developer — I'm a **creator** driven by the limitless possibili
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ceasermikes002&theme=default&hide_border=false&border_radius=10" alt="GitHub Streak Stats" />
 </p>
 
-<!-- Alternative Streak Option -->
-<!-- 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ceasermikes002&theme=default" alt="GitHub Streak" />
-</p>
--->
-
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ceasermikes002&theme=flat&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ceasermikes002&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
-<!-- Alternative Trophy Options -->
+<!-- Alternative Trophy Services (Try these if above doesn't work) -->
+<!-- Option 2: Different deployment -->
 <!--
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=ceasermikes002&theme=onedark&no-frame=false&row=2&column=4" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=ceasermikes002&theme=flat&row=1" alt="Trophies" />
+</p>
+-->
+
+<!-- Option 3: Ryo-ma's original repo -->
+<!--
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ceasermikes002&theme=dracula&row=1&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 -->
 
 ---
 
-### 📊 Contribution Graph
+### 📊 Additional GitHub Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ceasermikes002&show_icons=true&count_private=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=ceasermikes002&limit=5&theme=radical&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ceasermikes002&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
@@ -94,13 +103,6 @@ I'm not just a developer — I'm a **creator** driven by the limitless possibili
 <p align="center">
   <img src="https://img.shields.io/badge/Code%20Written-11,215,899%20lines-blue?style=for-the-badge&logo=github" alt="Lines of Code" />
 </p>
-
-<!-- Optional: Detailed Wakatime Stats Card -->
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ceasermikes002&layout=compact&theme=default" alt="Wakatime Stats" />
-</p>
--->
 
 ---
 
