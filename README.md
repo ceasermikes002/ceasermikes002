@@ -79,13 +79,6 @@ I'm not just a developer — I'm a **creator** driven by the limitless possibili
 </p>
 -->
 
----
-
-### 📊 Additional GitHub Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ceasermikes002&show_icons=true&count_private=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=ceasermikes002&limit=5&theme=radical&hide_border=true" width="48%" />
-</p>
 
 ---
 
