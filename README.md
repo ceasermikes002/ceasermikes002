@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1e293b&center=true&vCenter=true&width=1000&lines=Building+What+People+Want;Educator%2C+Builder%2C+Fullstack+Engineer;Code.+Teach.+Repeat.+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
+
 ---
 
 ### 🧠 About Me
