@@ -1,18 +1,17 @@
 <!-- Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1e293b&center=true&vCenter=true&width=1000&lines=Fullstack+Builder+%7C+Solving+Problems+with+Code;Educator%2C+Builder%2C+Fullstack+Engineer;Code.+Teach.+Repeat.+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1e293b&center=true&vCenter=true&width=1000&lines=Building+What+People+Want;Educator%2C+Builder%2C+Fullstack+Engineer;Code.+Teach.+Repeat.+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
-
 ---
 
 ### 🧠 About Me
-I'm not just a developer — I'm a **creator** driven by the limitless possibilities of technology. I bring ideas to life with code, and I'm passionate about crafting seamless, interactive, and visually stunning user experiences.
+I am a YCombinator style, product focused software engineer who loves the startup thrill and grind, skilled in multiple languages and frameworks (ie; I am versatile and can adapt to unfamiliar stack quickly) who likes to ship and iterate quicky while still mainaining production level code. 
 
 ---
 
 ### 🚀 Current Focus
 - 🔭 Building **[FDAware](https://fdaware-frontend.vercel.app)** — an AI-powered **FDA label automation tool**
-- 📖 Currently learning **DevOps**  
+- 📖 Currently learning **DevOps and System Design**  
 - 👨🏽‍🏫 Personal **online coding instructor**  
 - 🌍 Portfolio: [chima.website](https://chima.website)  
 - 💬 Ask me about: `Next.js`, `TypeScript`, `Python`, `Solidity`, `Nest.js`
@@ -49,15 +48,7 @@ I'm not just a developer — I'm a **creator** driven by the limitless possibili
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ceasermikes002&theme=default&hide_border=false&border_radius=10" alt="GitHub Streak Stats" />
-</p>
-
----
-
-### 📊 Additional GitHub Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ceasermikes002&show_icons=true&count_private=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=ceasermikes002&limit=5&theme=radical&hide_border=true" width="48%" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ceasermikes002)](https://git.io/streak-stats)
 </p>
 
 ---
@@ -87,7 +78,7 @@ I'm not just a developer — I'm a **creator** driven by the limitless possibili
 ---
 
 ### 🎧 Fun Fact
-> When I'm not coding, you'll find me vibing to Lana Del Rey, Arctic Monkeys, Tame Impala, Mac DeMarco, The Neighbourhood, and Cigarettes After Sex 🎵
+> When I'm not coding, you'll find me learning about YC and startups or vibing to Lana Del Rey, Arctic Monkeys, The Neighbourhood, Cigarettes After Sex. 
 
 ---
 
