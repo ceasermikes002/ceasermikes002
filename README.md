@@ -5,12 +5,12 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 I am a YCombinator style, product focused software engineer who loves the startup thrill and grind, skilled in multiple languages and frameworks (ie; I am versatile and can adapt to unfamiliar stack quickly) who likes to ship and iterate quicky while still mainaining production level code. 
 
 ---
 
-### 🚀 Current Focus
+### Current Focus
 - 🔭 Building **[FDAware](https://fdaware-frontend.vercel.app)** — an AI-powered **FDA label automation tool**
 - 📖 Currently learning **DevOps and System Design**  
 - 👨🏽‍🏫 Personal **online coding instructor**  
@@ -19,7 +19,7 @@ I am a YCombinator style, product focused software engineer who loves the startu
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 <p align="left">
   <a href="mailto:chimaemekamicheal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://twitter.com/ceaser_mikes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -29,7 +29,7 @@ I am a YCombinator style, product focused software engineer who loves the startu
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,nextjs,react,nodejs,tailwind,solidity,prisma,postgres,sqlite,flutter,dart,nestjs,express,vite,vercel,git,github,vscode,postman,figma,docker,mongodb,redis,graphql,cs,cpp,go,aws,gcp,terraform" />
 </p>
@@ -39,7 +39,7 @@ I am a YCombinator style, product focused software engineer who loves the startu
 
 ---
 
-### 🧩 GitHub Stats & Insights
+### GitHub Stats & Insights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ceasermikes002&show_icons=true&theme=default&border_radius=10&count_private=true" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceasermikes002&layout=compact&theme=default&langs_count=10&hide_progress=true" height="180px" />
@@ -54,7 +54,7 @@ I am a YCombinator style, product focused software engineer who loves the startu
 
 ---
 
-### 📈 Contribution Graph
+### Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ceasermikes002&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
@@ -78,7 +78,7 @@ I am a YCombinator style, product focused software engineer who loves the startu
 
 ---
 
-### 🎧 Fun Fact
+### Fun Fact
 > When I'm not coding, you'll find me learning about YC and startups or vibing to Lana Del Rey, Arctic Monkeys, The Neighbourhood, Cigarettes After Sex. 
 
 ---
