@@ -6,7 +6,7 @@
 ---
 
 ### About Me
-I am a **YCombinator style**, product focused software engineer who loves the startup thrill and grind, skilled in multiple languages and frameworks (ie; I am versatile and can adapt to unfamiliar stack quickly) who likes to ship and iterate quicky while still mainaining production level code. 
+I am a **YCombinator style**, product focused software engineer who loves the startup thrill and grind, skilled in multiple languages and frameworks (ie; I am versatile and can adapt to unfamiliar stack quickly), who likes to ship and iterate quicky while still mainaining production level code. 
 
 ---
 
