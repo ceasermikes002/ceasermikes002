@@ -49,7 +49,9 @@ I am a YCombinator style, product focused software engineer who loves the startu
 
 ### 🔥 GitHub Streak
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ceasermikes002)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=ceasermikes002" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
