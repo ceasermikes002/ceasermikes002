@@ -6,16 +6,16 @@
 ---
 
 ### About Me
-I am a YCombinator style, product focused software engineer who loves the startup thrill and grind, skilled in multiple languages and frameworks (ie; I am versatile and can adapt to unfamiliar stack quickly) who likes to ship and iterate quicky while still mainaining production level code. 
+I am a **YCombinator style**, product focused software engineer who loves the startup thrill and grind, skilled in multiple languages and frameworks (ie; I am versatile and can adapt to unfamiliar stack quickly) who likes to ship and iterate quicky while still mainaining production level code. 
 
 ---
 
 ### Current Focus
-- 🔭 Building **[FDAware](https://fdaware-frontend.vercel.app)** — an AI-powered **FDA label automation tool**
-- 📖 Currently learning **DevOps and System Design**  
-- 👨🏽‍🏫 Personal **online coding instructor**  
-- 🌍 Portfolio: [chima.website](https://chima.website)  
-- 💬 Ask me about: `Next.js`, `TypeScript`, `Python`, `Solidity`, `Nest.js`
+-  Building **[FDAware](https://fdaware-frontend.vercel.app)** — an AI-powered **FDA label automation tool**
+-  Currently learning **System Engineering**  
+-  Personal **online coding instructor, Open Source contributor and  Footballer**  
+-  Portfolio: [chima.website](https://chima.website)  
+-  Ask me about: `Next.js`, `TypeScript`, `Python`, `Solidity`, `Nest.js`, `Startups`, `YC`, `System Design`
 
 ---
 
@@ -47,7 +47,7 @@ I am a YCombinator style, product focused software engineer who loves the startu
 
 ---
 
-### 🔥 GitHub Streak
+###  GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ceasermikes002)](https://git.io/streak-stats)
 
 ---
@@ -59,7 +59,7 @@ I am a YCombinator style, product focused software engineer who loves the startu
 
 ---
 
-### ⏱ Wakatime Stats
+###  Wakatime Stats
 <p align="center">
   <a href="https://wakatime.com/@1de2f53e-caac-432b-bb25-4b3a67e31e49"><img src="https://wakatime.com/badge/user/1de2f53e-caac-432b-bb25-4b3a67e31e49.svg" alt="Total time coded since Jun 20 2024" /></a>
 </p>
