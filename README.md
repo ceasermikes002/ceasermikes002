@@ -69,7 +69,7 @@ I am a **YCombinator style**, product focused software engineer who loves the st
 ---
 
 ### Fun Fact
-> When I'm not coding, you'll find me learning about YC and startups or vibing to Lana Del Rey, Arctic Monkeys, The Neighbourhood, Cigarettes After Sex. 
+> When I'm not coding, you'll find me learning about system design, devops, YC, and startups or vibing to Lana Del Rey, Arctic Monkeys, The Neighbourhood, Cigarettes After Sex. 
 
 ---
 
