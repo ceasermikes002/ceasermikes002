@@ -39,14 +39,6 @@ I am a **YCombinator style**, product focused software engineer who loves the st
 
 ---
 
-### GitHub Stats & Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ceasermikes002&show_icons=true&theme=default&border_radius=10&count_private=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceasermikes002&layout=compact&theme=default&langs_count=10&hide_progress=true" height="180px" />
-</p>
-
----
-
 ###  GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ceasermikes002)](https://git.io/streak-stats)
 
