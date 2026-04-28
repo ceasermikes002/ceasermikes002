@@ -49,15 +49,17 @@ I am a **YCombinator style**, product focused software engineer who loves the st
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ceasermikes002&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
----
-
+<!--
 ###  Wakatime Stats
 <p align="center">
-  <a href="https://wakatime.com/@1de2f53e-caac-432b-bb25-4b3a67e31e49"><img src="https://wakatime.com/badge/user/1de2f53e-caac-432b-bb25-4b3a67e31e49.svg" alt="Total time coded since Jun 20 2024" /></a>
+  <a href="https://wakatime.com/@1de2f53e-caac-432b-bb25-4b3a67e31e49">
+    <img src="https://wakatime.com/badge/user/1de2f53e-caac-432b-bb25-4b3a67e31e49.svg" alt="Total time coded since Jun 20 2024" />
+  </a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Code%20Written-11,215,899%20lines-blue?style=for-the-badge&logo=github" alt="Lines of Code" />
 </p>
+-->
 
 ---
 
