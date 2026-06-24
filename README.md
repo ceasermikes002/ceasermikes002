@@ -11,7 +11,7 @@ I am a **YCombinator style**, product focused software engineer who loves the st
 ---
 
 ### Current Focus
--  Building **[FDAware](https://fdaware-frontend.vercel.app)** — an AI-powered **FDA label automation tool**
+-  Building **[FDAware](https://github.com/fdaware-backend)** — an AI-powered **FDA label automation tool**
 -  Currently learning **System Engineering**  
 -  Personal: **Online coding instructor, Open Source contributor and  Footballer**  
 -  Portfolio: [chima.website](https://chima.website)  
