@@ -42,11 +42,6 @@ I am a **YCombinator style**, product focused software engineer who loves the st
 
 ---
 
-### Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ceasermikes002&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
 <!--
 ###  Wakatime Stats
 <p align="center">
