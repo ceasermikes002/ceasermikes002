@@ -15,8 +15,6 @@ I am a **YCombinator style**, product focused software engineer who loves the st
 -  Currently learning **System Engineering**  
 -  Personal: **Online coding instructor, Open Source contributor and  Footballer**  
 -  Portfolio: [chima.website](https://chima.website)  
--  Ask me about: `Next.js`, `TypeScript`, `Python`, `Solidity`, `Nest.js`, `Startups`, `YC`, `System Design`
-
 ---
 
 ### Connect With Me
