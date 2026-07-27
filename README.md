@@ -40,8 +40,6 @@ I am a **YCombinator style**, product focused software engineer who loves the st
 ###  GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ceasermikes002)](https://git.io/streak-stats)
 
----
-
 <!--
 ###  Wakatime Stats
 <p align="center">
