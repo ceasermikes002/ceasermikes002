@@ -5,73 +5,88 @@
 
 ---
 
-### About Me
-I am a **YCombinator style**, product focused software engineer who loves the startup thrill and grind, skilled in multiple languages and frameworks (ie; I am versatile and can adapt to unfamiliar stack quickly), who likes to ship and iterate quicky while still mainaining production level code. 
+## About Me
+
+I'm a **product-focused full-stack software engineer** who enjoys building products from **0→1**. I thrive in fast-moving startup environments, shipping quickly, iterating from user feedback, and maintaining production-quality code.
+
+I'm comfortable across multiple languages, frameworks, and technologies, allowing me to adapt quickly to unfamiliar stacks and contribute wherever needed.
 
 ---
 
-### Current Focus
--  Building **[FDAware](https://github.com/ceasermikes002/fdaware-backend)** — an AI-powered **FDA label automation tool**
--  Currently learning **System Engineering**  
--  Personal: **Online coding instructor, Open Source contributor and  Footballer**  
--  Portfolio: [chima.website](https://chima.website)  
+## Current Focus
+
+- Building **[FDAware](https://github.com/ceasermikes002/fdaware-backend)** — an AI-powered FDA label automation platform
+- Learning **System Design**, distributed systems, and cloud architecture
+- Online coding instructor
+- Open source contributor
+- Portfolio: **https://chima.website**
+
 ---
 
-### Connect With Me
+## Connect With Me
+
 <p align="left">
-  <a href="mailto:chimaemekamicheal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/ceaser_mikes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.instagram.com/_.ctech_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/chimaobiemeka"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:chimaemekamicheal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/ceaser_mikes">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/chimaobiemeka">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/_.ctech_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### Tech Stack & Tools
+## Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,nextjs,react,nodejs,tailwind,solidity,prisma,postgres,sqlite,flutter,dart,nestjs,express,vite,vercel,git,github,vscode,postman,figma,docker,mongodb,redis,graphql,cs,cpp,go,aws,gcp,terraform" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,go,cpp,cs,nextjs,react,nodejs,nestjs,express,tailwind,graphql,prisma,postgres,mongodb,sqlite,redis,docker,aws,gcp,terraform,git,github,vercel,postman,figma,vscode,flutter,dart,solidity" />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML" />
 </p>
 
 ---
 
-###  GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ceasermikes002)](https://git.io/streak-stats)
+## GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ceasermikes002&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceasermikes002&layout=compact&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ceasermikes002&hide_border=true" />
+</p>
+
+---
 
 <!--
-###  Wakatime Stats
+## Wakatime
+
 <p align="center">
   <a href="https://wakatime.com/@1de2f53e-caac-432b-bb25-4b3a67e31e49">
-    <img src="https://wakatime.com/badge/user/1de2f53e-caac-432b-bb25-4b3a67e31e49.svg" alt="Total time coded since Jun 20 2024" />
+    <img src="https://wakatime.com/badge/user/1de2f53e-caac-432b-bb25-4b3a67e31e49.svg" />
   </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Code%20Written-11,215,899%20lines-blue?style=for-the-badge&logo=github" alt="Lines of Code" />
 </p>
 -->
 
+## Fun Fact
+
+> When I'm not coding, you'll usually find me learning about startups, YC, distributed systems, DevOps, and system design or listening to Lana Del Rey, Arctic Monkeys, The Neighbourhood, and Cigarettes After Sex.
+
 ---
 
-### 💡 Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+  <img src="https://komarev.com/ghpvc/?username=ceasermikes002&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
----
-
-### Fun Fact
-> When I'm not coding, you'll find me learning about system design, devops, YC, and startups or vibing to Lana Del Rey, Arctic Monkeys, The Neighbourhood, Cigarettes After Sex. 
-
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ceasermikes002&label=Profile+views&color=0e75b6&style=flat" alt="ceasermikes002" />
-</p>
-
----
-
-<p align="center">
-  <strong>✨ Thank you for visiting my profile! ✨</strong>
+  <strong>Building products people want.</strong>
 </p>
