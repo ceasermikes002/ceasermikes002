@@ -56,10 +56,10 @@ I'm comfortable across multiple languages, frameworks, and technologies, allowin
 
 ## GitHub Statistics
 
-<p align="center">
+<!-- <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ceasermikes002&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceasermikes002&layout=compact&hide_border=true&langs_count=8" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ceasermikes002&hide_border=true" />
