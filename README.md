@@ -77,9 +77,9 @@ I'm comfortable across multiple languages, frameworks, and technologies, allowin
 </p>
 -->
 
-## Fun Fact
+## Interesting Facts
 
-> When I'm not coding, you'll usually find me learning about startups, YC, distributed systems, DevOps, and system design or listening to Lana Del Rey, Arctic Monkeys, The Neighbourhood, and Cigarettes After Sex.
+> I listen to The Neighbourhood, Lana Del Rey, and Cigarettes After Sex. I binge-watch Y Combinator videos, have read two books by Eric Ries, play both left and right wing in football, prefer Haaland over Mbappé, and Messi over Ronaldo.
 
 ---
 
