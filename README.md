@@ -16,10 +16,11 @@ I'm comfortable across multiple languages, frameworks, and technologies, allowin
 ## Current Focus
 
 - Building **[FDAware](https://github.com/ceasermikes002/fdaware-backend)** — an AI-powered FDA label automation platform
+- Currently reading **[Java How To Program](https://www.amazon.co.uk/Java-Program-early-objects-Deitel/dp/0132575663) By Paul and Harvey Deitel**
 - Learning **System Design**, distributed systems, and cloud architecture
 - Online coding instructor
 - Open source contributor
-- Portfolio: **https://chima.website**
+- Portfolio: **https://chima.website (down currently :(, will fix soon)**
 
 ---
 
