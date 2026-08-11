@@ -80,7 +80,7 @@ I'm comfortable across multiple languages, frameworks, and technologies, allowin
 
 ## Interesting Facts
 
-> I listen to The Neighbourhood, Lana Del Rey, and Cigarettes After Sex. I binge-watch Y Combinator videos, have read two books by Eric Ries, play both left and right wing in football, prefer Haaland over Mbappé, and Messi over Ronaldo.
+> I listen to The Neighbourhood, Lana Del Rey, and Cigarettes After Sex. I binge-watch Y Combinator videos, have read two books by Eric Ries, play both left and right wing in football, prefer Haaland over Mbappé (Mbappé's better), and Messi over Ronaldo (Messi's better).
 
 ---
 
