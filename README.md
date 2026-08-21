@@ -63,8 +63,8 @@ I'm comfortable across multiple languages, frameworks, and technologies, allowin
 </p> -->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ceasermikes002&hide_border=true" />
-</p> 
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ceasermikes002&hide_border=true" />
+</p>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=ceasermikes002&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
