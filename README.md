@@ -49,10 +49,6 @@ I'm comfortable across multiple languages, frameworks, and technologies, allowin
   <img src="https://skillicons.dev/icons?i=ts,js,py,go,cpp,cs,nextjs,react,nodejs,nestjs,express,tailwind,graphql,prisma,postgres,mongodb,sqlite,redis,docker,aws,gcp,terraform,git,github,vercel,postman,figma,vscode,flutter,dart,solidity" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML" />
-</p>
-
 ## GitHub Statistics
 
 <!-- <p align="center">
