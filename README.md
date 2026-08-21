@@ -53,8 +53,6 @@ I'm comfortable across multiple languages, frameworks, and technologies, allowin
   <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML" />
 </p>
 
----
-
 ## GitHub Statistics
 
 <!-- <p align="center">
@@ -64,10 +62,6 @@ I'm comfortable across multiple languages, frameworks, and technologies, allowin
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ceasermikes002&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://ghstats.dev/api/card?username=ceasermikes002" />
 </p>
 
 ---
