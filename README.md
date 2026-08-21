@@ -67,8 +67,7 @@ I'm comfortable across multiple languages, frameworks, and technologies, allowin
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=ceasermikes002&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ceasermikes002&layout=compact&hide_border=true&langs_count=8" />
+  <img height="170" src="https://ghstats.dev/api/card?username=ceasermikes002" />
 </p>
 
 ---
