@@ -20,7 +20,7 @@ I'm comfortable across multiple languages, frameworks, and technologies, allowin
 - Learning **System Design**, distributed systems, and cloud architecture
 - Online coding instructor
 - Open source contributor
-- Portfolio: **https://chima.website (down currently :(, will fix soon)**
+- Portfolio: **https://chima.lol**
 
 ---
 
