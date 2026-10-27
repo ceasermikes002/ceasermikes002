@@ -49,7 +49,7 @@ I'm comfortable across multiple languages, frameworks, and technologies, allowin
   <img src="https://skillicons.dev/icons?i=ts,js,py,go,cpp,cs,nextjs,react,nodejs,nestjs,express,tailwind,graphql,prisma,postgres,mongodb,sqlite,redis,docker,aws,gcp,terraform,git,github,vercel,postman,figma,vscode,flutter,dart,solidity" />
 </p>
 
-## GitHub Statistics
+
 
 <!-- <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ceasermikes002&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
@@ -57,6 +57,7 @@ I'm comfortable across multiple languages, frameworks, and technologies, allowin
 </p> -->
 
 <!-- <p align="center">
+## GitHub Statistics
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ceasermikes002&hide_border=true" />
 </p> -->
 
