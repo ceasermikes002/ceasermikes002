@@ -56,9 +56,9 @@ I'm comfortable across multiple languages, frameworks, and technologies, allowin
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceasermikes002&layout=compact&hide_border=true&langs_count=8" />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ceasermikes002&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
